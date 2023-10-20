@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+    <Employee>
+        <Id>1</Id>
+        <FirstName>John</FirstName>
+        <LastName>Doe</LastName>
+        <Age>30</Age>
+        <Salary>50000</Salary>
+    </Employee>
+    <Employee>
+        <Id>2</Id>
+        <FirstName>Jane</FirstName>
+        <LastName>Smith</LastName>
+        <Age>28</Age>
+        <Salary>48000</Salary>
+    </Employee>
+</Employees>
